@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521569104 source:e:\2018-1\taller_algoritmos\punto_1\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
